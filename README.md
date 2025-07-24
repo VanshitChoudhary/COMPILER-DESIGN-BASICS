@@ -22,3 +22,7 @@ To run the program, simply compile the C++ file using a standard compiler like g
 This project is especially useful for students and beginners who are studying compiler design or want to understand how parsing and expression evaluation work behind the scenes. It is structured in a way that encourages further development. For instance, it can be extended to support variables (e.g., x = 5 + 3), custom functions, abstract syntax trees (AST), or even code generation for simple virtual machines.
 
 In summary, this arithmetic expression compiler showcases the core principles of compiler design in a clean and understandable manner. By breaking down expressions into components and using recursive parsing techniques, the program demonstrates how complex-looking input can be processed, validated, and evaluated. It offers a hands-on introduction to how compilers function and provides a solid foundation for building more advanced language tools in the future.
+
+
+OUTPUT-
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5fef4d7e-f4e7-4384-ac15-db7764efbbf2" />
